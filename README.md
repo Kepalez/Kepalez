@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I studied a BE in **Artificial Intelligence Engineering**  at Universidad Panamericana and currently working as a **Jr Software Engineer** at *Ticketón*, where I develop AI-driven tools and help in the overall maintenance of the web page and services including frontend and backend tasks.
+I studied a BE in **Artificial Intelligence Engineering**  at Universidad Panamericana and currently working as a **Software Developer** at *Ticketón*, where I develop AI-driven tools and help in the overall maintenance of the web page and services including frontend and backend tasks.
 
 * 🏆 **Achievements:** Bronze medalist in a national competition and active participant in the ICPC tournament.
 * 🔭 **Currently:** Enrolled in Graduate studies in Quality of Software Projects.
